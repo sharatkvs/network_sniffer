@@ -8,6 +8,8 @@ To run this program network sniffer run these command
 pip install scapy
 pip install scapy matplotlib
 pip install scapy matplotlib dpkt
+to run
+python3 sniff.py
 ```
 
 Features
